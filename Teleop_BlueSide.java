@@ -36,7 +36,7 @@ import java.util.List;
 
 
  @TeleOp
-public class Teleop_V2_BLUE extends LinearOpMode {
+public class Teleop_BlueSide extends LinearOpMode {
      //webcam variables
      OpenCvCamera webcam;
      static RotatedRect rotatedRectFitToContour;
